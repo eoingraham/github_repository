@@ -3,3 +3,4 @@ edit 2
 commit after adding.
 file has been edited.
 edited in branch2
+edited on branch1
