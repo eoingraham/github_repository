@@ -1,4 +1,4 @@
 this is a test for git
-
+edit 2
 commit after adding.
 file has been edited.
